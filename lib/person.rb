@@ -1,7 +1,7 @@
 # person.rb
 
-class Person
-
+class Person(name)
+  @name
 end
 
 beyonce = Person.new
